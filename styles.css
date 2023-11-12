@@ -1,0 +1,17 @@
+h1 {
+    color: red;
+    font-size: 200%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:end;
+}
+
+p {
+    color: blue;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    text-align:justify;
+}
+
+body {
+    background-color:aqua;
+}
